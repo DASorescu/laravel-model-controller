@@ -10855,3 +10855,14 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+#movie-cards .my-col {
+  width: 20%;
+  padding: 1rem;
+}
+#movie-cards .my-col .card {
+  width: 100%;
+  height: 800px;
+}
+#movie-cards .my-col .card img {
+  height: 330px;
+}
